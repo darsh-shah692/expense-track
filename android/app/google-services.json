@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "80199927689",
+    "firebase_url": "https://e-expensetracker.firebaseio.com",
+    "project_id": "e-expensetracker",
+    "storage_bucket": "e-expensetracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80199927689:android:9b49d3cf695296a0d1c358",
+        "android_client_info": {
+          "package_name": "com.example.etracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80199927689-250i234tmlqmcf3qef8m7dfikvr98o6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuwh8toZBBPALQO6KhIaE1P2ZaBwZzNaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80199927689-250i234tmlqmcf3qef8m7dfikvr98o6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
